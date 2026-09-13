@@ -51,7 +51,7 @@ A modern, high-performance, and visually stunning Employee Management System bui
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Sg-2003/EMS-2026.git
+git clone https://github.com/EMS.git
 cd EMS-2026
 ```
 
